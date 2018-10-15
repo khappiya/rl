@@ -12,3 +12,6 @@ https://www.endtoend.ai/envs/gym/atari/
 
 深層強化学習"Ape-X"の論文を読みとく
 https://knto-h.hatenablog.com/entry/2018/04/28/145411
+
+- RLCode와 A3C 쉽고 깊게 이해하기
+https://www.slideshare.net/WoongwonLee/rlcode-a3c
